@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="usf-8">
+      <h1><strong><em>"Quick and easy flatbreads"</em></strong></h1>
+        <style>
+          body {
+            background-color: rgb(135, 211, 235);
+          }
+          body{
+            font-size:25px
+          }
+          .instructions{
+            padding:5px 5px 5px 5px
+          }
+          .enhance{
+            color:white
+          }
+        </style>
+    </head>
+    <body>
+        <li>3/4 cup (170g) lukewarm water</li>
+        <li>1 tablespoon (14g) olive oil</li>
+        <li>1 teaspoon salt</li>
+        <li>2 cups +2 tablespoons (240g + 14g) King Arthur unbleached Bread Flour,divided</li>
+        <li>1 1/2 teaspoons instant yeast</li>
+        <li> 1 teaspoon baking powder</li>
+     <ol><em><strong><span class="enhance" >"Instructions"</span></strong></em>
+        <span class="instructions"><li>Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess.</li></span>
+          <span class="instructions"><li>Combine all the ingredients, using 2 cups (240g) of the flour, in the bowl of a stand mixer. Using the padde attachment, mix on medium speed to make a shaggy dough. This will only take about 30 to 45 seconds; turn the mixer off to scrape the bowl midway.</li></span>
+            <span class="instructions"><li>Place the 2 tablespoons (14g) of flour in a mound on your work surface and use some of it to lightly dust a 12"-round surface and knead it by hand, incorporating more flour from the additional 2 tablespoons as needed, until the dough feels springy and just slightly tacky,about 2 to 3 minutes.</li></span>
+         <span class="instructions"> <li>Leave the dough on the lightly floured surface; there should be a bit of flour left over from the original 2 tablespoons. Place your mixing bowl upside-down over the dough, and let the dough rest for 30 minutes.</li></span>
+         <span class="instructions"> <li>Divide the dough into eight equal pieces; each piece should weigh betweem 55g and 60g. Form each piece into a ball, cover them, and let them rest for 5 minutes</li></span>
+          <span class="instructions"> <li>In the meantime, place a large skillet (12" or larger is ideal) on the stovetop and preheat it over medium heat. Alternatively, preheat an electric griddle to 325F</li></span>
+          <span class="instructions"> <li>Working with one piece of dough at a time, roll it into a rough circle or oval about 1/4" thick and 6" in diameter, using more flour if nessesary</li></span>
+          <span class="instructions"> <li>Dry-fry (no oil) the flatbreads in batches of two to four in the skillet or on the griddle. Cook for 2 to 3 minutes on one side, or until golden brown, then flip and cook the second side for another 2 minutes. Transfer the flatbreads from the pan to a rack to cool slightly before serving.</li></span>
+           <span class="instructions"><li>Store flatbreads, well wrapped, at room temperature</li></span>
+
+        </ol>
+
+        </body>
+</html>
